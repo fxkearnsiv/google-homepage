@@ -1,0 +1,1 @@
+This is my first attempt at recreating the Google homepage in HTML and CSS. This was intended as a learning experience for me, and I have to say it worked. I learned a ton from just trying to figure this out on my own.

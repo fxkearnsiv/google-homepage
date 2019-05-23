@@ -1,0 +1,93 @@
+body {
+    text-align: center;
+}
+input {
+    margin: 22px;
+    border-radius: 50px;
+    padding: 15px 20px;
+    border: 1px solid rgb(221, 221, 221);
+}
+#logo {
+    display: block;
+    max-width: 275px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 175px;
+
+}
+button {
+    background: linear-gradient(#f4f4f4, #f1f1f1);
+    padding: 10px 15px 10px 15px;
+    margin: 10px 4px;
+    font-size: 10pt;
+    color: #6d7175;
+    font-family: Arial;
+    font-weight: lighter;
+    border: 1px #f4f4f4;
+    border-radius: 5px;
+}
+ul {
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: Arial;
+    font-size: 10pt;
+    font-weight: lighter;
+}
+li {
+    float: left;
+    display: block;
+    padding: 6px;
+    margin-top: 8px;
+    margin-left: 8px;
+}
+.footer {
+    position: absolute;
+    bottom:0;
+    left: 0;
+    right: 0;
+    width:100%;
+    background: #f2f2f2;
+    outline: 1px solid #e4e4e4;
+    padding-bottom: 4px;
+    padding-left: 15px;
+}
+#settings-nav {
+    float: right;
+    margin-right: 3%;
+    padding: 0;
+}
+#personal-nav {
+    float: right;
+}
+#sign-in-button {
+    margin: 0;
+    background: #4385f7;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 9.75pt;
+    border-radius: 2px;
+    padding: 7.5px 13.5px 7.5px 13.5px;
+    margin-top: -7px;
+    margin-right: 15px;
+}
+a:link {
+    text-decoration: none;
+    color: rgb(100, 100, 100);
+}
+  
+a:visited {
+    text-decoration: none;
+    color: rgb(100, 100, 100);
+}
+  
+a:hover {
+    text-decoration: underline;
+}
+  
+a:active {
+    text-decoration: underline;
+}
